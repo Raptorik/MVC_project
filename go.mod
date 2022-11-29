@@ -1,3 +1,3 @@
-module MVC_project
+module mvc
 
 go 1.19
